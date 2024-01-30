@@ -38,5 +38,5 @@ int main()
  default:
     cout << "Gozine vorodi Yaft Nashod !!!!";
     }
-
+return 0;
 }
